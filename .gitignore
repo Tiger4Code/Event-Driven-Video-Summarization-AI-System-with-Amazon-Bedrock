@@ -1,0 +1,22 @@
+# Compiled python files
+*.pyc
+
+*/.DS_Store
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Environment directory
+env/
+
+# Logs
+*.log
+*.log*
+
+# AWS credentials and configuration
+~/.aws/credentials
+~/.aws/config
