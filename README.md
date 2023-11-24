@@ -19,7 +19,7 @@ This repository contains the code for an Event-Driven Video Summarization AI Sys
 ## Solution Architecture
 
 <!-- Placeholder for Solution Architecture Diagram -->
-![Video Summarization Solution Architecture](Audio-Chatbot-solution-architecture.png)
+![Video Summarization Solution Architecture](images/Video-summarization-solution-architecture.png)
 
 ### Usage
 
